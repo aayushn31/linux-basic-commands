@@ -1,0 +1,15 @@
+pwd - print working directory
+ls - list files
+cd - change directory
+mkdir - create directory
+rmdir - remove empty directory
+rm - remove files
+cp - copy files
+mv - move files
+touch - create empty file
+cat - view file content
+less - view large files
+whoami - current user
+uname - system info
+df - disk usage
+free - memory usage
